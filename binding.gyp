@@ -4,7 +4,7 @@
       "sqlite%":"internal",
       "sqlite_libname%":"sqlite3",
       "module_name": "node_sqlite3",
-      "openssl_fips": != "",
+      "openssl_fips": "",
   },
   "targets": [
     {
